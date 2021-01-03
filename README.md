@@ -7,4 +7,4 @@
 <li> Delete a task </li>
 <li> Check task complete or not </li>
 </ul>
-<b> Refresh won't effect this app </b>
+<b> Refresh won't affect this app </b>
