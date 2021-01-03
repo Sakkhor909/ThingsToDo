@@ -1,5 +1,6 @@
-// No righ click
-// document.addEventListener('contextmenu', event => event.preventDefault());
+// The code is written by Minhajur rahman Sakkhor
+
+document.addEventListener('contextmenu', event => event.preventDefault());
 
 let listContainer =  document.querySelector("ul");
 let strogeArray;
