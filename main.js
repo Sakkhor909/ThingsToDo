@@ -262,9 +262,6 @@ let appHandeler = {
         input.value = "";
         lastID = IDGenerator.toString();
         location.href = `#item${lastID}`;
-        setTimeout(function(){
-            document.getElementById("saveInput").focus();
-       }, 1000);
     }
 
 }
